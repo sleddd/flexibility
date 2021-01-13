@@ -1,4 +1,10 @@
 # flexibility
+===  Websites Trial Plugin ===
+Contributors: Claudette Raynor  
+Donate link: 'https://'  
+Tags: custom post types  
+License: GPLv2 or later  
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
 <a href="https://github.com/jonathantneal/flexibility"><img src="https://jonathantneal.github.io/flexibility/logo.svg" alt="Flexibility Logo" width="60" height="60" align="right"></a>
 
